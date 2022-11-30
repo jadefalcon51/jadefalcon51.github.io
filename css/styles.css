@@ -3,6 +3,10 @@ header h1 {
 
 }
 
+title {
+    color: darkcyan;
+}
+
 nav ul {
     padding: 0;
 }
